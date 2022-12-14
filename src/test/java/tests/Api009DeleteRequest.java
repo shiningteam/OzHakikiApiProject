@@ -1,4 +1,4 @@
-package delete09;
+package tests;
 
 import baseUrl.AutomationExerciseBaseUrl01;
 import io.restassured.response.Response;
